@@ -1,0 +1,22 @@
+{
+  "name": "campaign_soundboard",
+  "version": "1.0.0",
+  "description": "A soundboard app to play music smoothly and sound effects for my DnD campaigns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruceKristelijn/campaign-soundboard.git"
+  },
+  "keywords": [
+    "tabletop"
+  ],
+  "author": "Bruce Kristelijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BruceKristelijn/campaign-soundboard/issues"
+  },
+  "homepage": "https://github.com/BruceKristelijn/campaign-soundboard#readme"
+}
