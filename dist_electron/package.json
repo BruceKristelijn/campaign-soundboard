@@ -1,16 +1,7 @@
-{  
+{
   "name": "vue-desktop",
   "version": "0.1.0",
-  "author": "Bruce Kristelijn",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BruceKristelijn/campaign-soundboard.git"
-  },
-  "bugs": {
-    "url": "https://github.com/BruceKristelijn/campaign-soundboard/issues"
-  },
-  "homepage": "https://github.com/BruceKristelijn/campaign-soundboard#readme",
+  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
